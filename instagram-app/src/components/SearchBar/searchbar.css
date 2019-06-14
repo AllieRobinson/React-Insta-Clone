@@ -1,0 +1,16 @@
+.paddingline {
+    border-right: 1px solid lightgrey;
+    padding-right: 15px;
+    margin-right: 15px;
+    display: inline-block;
+}
+
+.fab {
+    font-size: 2rem;
+}
+
+.far {
+    font-size: 1.6rem;
+    padding: 7px;
+}
+

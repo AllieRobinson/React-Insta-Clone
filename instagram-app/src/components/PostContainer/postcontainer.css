@@ -1,0 +1,27 @@
+h2 {
+    display: inline-block;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 1.6rem;
+}
+
+.thumbnailurl {
+    width: 50px;
+    border-radius: 30px;
+}
+
+.alignleft {
+    text-align: left;
+}
+
+.wrap {
+    width: 69%;
+    overflow: hidden;
+}
+
+.center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
